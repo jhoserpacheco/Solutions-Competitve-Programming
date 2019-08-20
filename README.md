@@ -1,1 +1,1 @@
-# Solutions-Competitve-Programming
+# Solutions Competitve Programming
