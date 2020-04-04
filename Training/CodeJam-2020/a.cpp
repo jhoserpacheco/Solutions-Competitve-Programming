@@ -16,10 +16,10 @@ int main() {
 		cin >> n;
 		int m[n][n];
 		set <int> v1, v2;
-    memset(m, 0, sizeof(m));
+   		memset(m, 0, sizeof(m));
 
 		for(int i = 0; i < n; i++){
-      for(int j = 0; j < n; j++){
+			for(int j = 0; j < n; j++){
 				cin >> m[i][j];
 				if(i == j) 	d += m[i][j];
 			}
